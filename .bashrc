@@ -1,0 +1,1 @@
+# change prompt:'nPS1="docker> "'n'n# change path to allow execution from current directory:'nexport PATH=.:$PATH'n'n# turn off bash command history:'nunset HISTFILE'n'n# command aliases:'nalias rm="rm -i"'n
